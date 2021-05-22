@@ -5,7 +5,7 @@ My first Image Classification Research in Keras and Tensorflow
 Before Running, Install the following
 
 ```
-pip install tensorflow keras matplotlib itertools numpy Pillow
+pip install tensorflow keras matplotlib image numpy Pillow
 ```
 
 
