@@ -1,6 +1,6 @@
 # Concrete Wall Crack Detection using Deep Learning
 
-My first Image Classification Research in Keras and Tensorflow
+This repository contains Deep Learning Crack Detection Algorithm for the conference paper "Automated Building Exterior Crack Inspection using UAVs, Open-Source Deep Learning and Photogrammetry"
 
 Before Running, Install the following
 
@@ -8,11 +8,9 @@ Before Running, Install the following
 pip install tensorflow keras matplotlib image numpy Pillow
 ```
 
-and the one below for Jupyter Path on Ubuntu
+and execute the following if you are using Jupyter Notebook on Ubuntu
 ```
 source my_project_env/bin/activate
 ```
 
 For data set have a folder at root named Data
-
-![](model.png?raw=true)
