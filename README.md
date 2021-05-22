@@ -13,4 +13,11 @@ and execute the following if you are using Jupyter Notebook on Ubuntu
 source my_project_env/bin/activate
 ```
 
+## Getting Started
+
+Place the image to be analyzed in the input folder.
+
+Open **Concrete Wall Crack Detection.ipynb** file, modify the input image name and execute the final code block.
+
+
 For data set have a folder at root named Data
