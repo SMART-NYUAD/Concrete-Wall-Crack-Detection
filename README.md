@@ -19,5 +19,11 @@ Place the image to be analyzed in the input folder.
 
 Open **Concrete Wall Crack Detection.ipynb** file, modify the input image name and execute the final code block.
 
+## Simulation
 
-For data set have a folder at root named Data
+The Webot Simulation file used in the paper is in **Webot Simulation** folder. Running this simulation on Ubuntu is recommended. The controller is written in C.
+
+
+## Data Set
+
+For training with own data set, have a folder at root named Data
