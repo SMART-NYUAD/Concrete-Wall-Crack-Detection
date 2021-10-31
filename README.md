@@ -1,5 +1,7 @@
 # Concrete Wall Crack Detection using Deep Learning
 
+Paper : https://www.iaarc.org/publications/2021_proceedings_of_the_38th_isarc/abecis-an_automated_building_exterior_crack_inspection_system_using_uavs_open_source_deep_learning_and_photogrammetry.html
+
 This repository contains Deep Learning Crack Detection Algorithm for the conference paper "Automated Building Exterior Crack Inspection using UAVs, Open-Source Deep Learning and Photogrammetry"
 
 Before Running, Install the following
